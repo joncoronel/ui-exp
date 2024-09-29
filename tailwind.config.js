@@ -10,6 +10,10 @@ module.exports = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        hotpink: {
+          DEFAULT: "hsl(342, 92%, 46%)",
+          100: "#E17387",
+        },
       },
     },
   },
